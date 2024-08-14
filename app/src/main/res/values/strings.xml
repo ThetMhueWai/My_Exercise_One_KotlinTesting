@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ExerciseOne</string>
+    <string-array name="countryArray">
+        <item>England</item>
+        <item>USA</item>
+        <item>Japan</item>
+        <item>Korea</item>
+    </string-array>
+</resources>
